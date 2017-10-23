@@ -1,0 +1,120 @@
+{
+    "address": "广州市越秀区执信南路116号首层自编5号",
+    "app_delivery_tip": "由美团快送提供配送服务",
+    "avg_accept_order_time": 0,
+    "avg_accept_order_time_ranking": 0,
+    "avg_delivery_time": 36,
+    "avg_delivery_time_ranking": 0,
+    "brand_type": 0,
+    "bulletin": "",
+    "buz_code": 0,
+    "buz_type": 0,
+    "call_center": "18218465198",
+    "can_use_coupon": 1,
+    "comment_num": 90,
+    "comments": [],
+    "delivery_score": 0.0,
+    "delivery_time_tip": "36分钟",
+    "delivery_type": 0,
+    "discounts2": [],
+    "distance": "4.0km",
+    "food_score": 0.0,
+    "head_pic_url": "",
+    "id": 476171127833687,
+    "in_time_delivery_percent": 0,
+    "in_time_delivery_percent_ranking": 0,
+    "invoice_support": 0,
+    "is_favorite": 0,
+    "latitude": 23128507,
+    "longitude": 113292131,
+    "min_price": 20.0,
+    "min_price_tip": "起送 ¥20",
+    "month_sale_num": 9,
+    "mt_delivery_info": {
+        "mt_delivery_tags": [],
+        "mt_delivery_tip": ""
+    },
+    "name": "东北饺子馆",
+    "new_promotion": 0,
+    "phone_list": [
+        "18218465198"
+    ],
+    "pic_url": "http://p0.meituan.net/xianfu/19747fb984e581f003d5762d24d59737218376.jpg",
+    "poi_delivery_content1": "",
+    "poi_delivery_content2": "",
+    "poi_env": {
+        "has_more": false,
+        "instead_poi_id": 0,
+        "show": false,
+        "thumbnails_url": "",
+        "thumbnails_url_list": []
+    },
+    "poi_qualification": [
+        "http://p0.meituan.net/xianfu/bbd646f5cf036562e6db9919d7ded926136664.jpg",
+        "http://p1.meituan.net/xianfu/921add1b8288191e465fe599341e0405126131.jpg"
+    ],
+    "poi_qualify_info": {
+        "content": "",
+        "show": false,
+        "url": ""
+    },
+    "poi_report": {
+        "content": null,
+        "show": false,
+        "url": null
+    },
+    "poi_sell_status": 1,
+    "poi_service": [],
+    "promotion_head_pic_url": "",
+    "remind_count": 0,
+    "remind_infos": [],
+    "remind_tip": "",
+    "share_tip": {
+        "activity_id": 0,
+        "channels": [],
+        "description": "",
+        "description_icon": "",
+        "share_button_icon": "",
+        "share_info": {
+            "content": "",
+            "icon": "",
+            "title": "",
+            "url": "",
+            "weixin_url": ""
+        }
+    },
+    "shipping_fee": 4.0,
+    "shipping_fee_tip": "配送 ¥4",
+    "shipping_time": "09:00-23:00",
+    "show_info": [
+        {
+            "is_score": true,
+            "name": "商家评分",
+            "unit": "分",
+            "value": ""
+        },
+        {
+            "is_score": false,
+            "name": "平均速度",
+            "unit": "分钟",
+            "value": "36"
+        },
+        {
+            "is_score": false,
+            "name": "及时送达",
+            "unit": "%",
+            "value": ""
+        }
+    ],
+    "status": 1,
+    "status_desc": "",
+    "story_info": {
+        "entrance_url": "",
+        "title": "",
+        "top_pic": "",
+        "video_icon": ""
+    },
+    "support_pay": 1,
+    "warn_tips": "",
+    "wm_poi_score": 0.0
+}

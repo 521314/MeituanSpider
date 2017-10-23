@@ -1,0 +1,14 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+i.waimai.meituan.com	FALSE	/	FALSE		JSESSIONID	6zuekwj6fkqzxj7j8nm5rmmj
+i.waimai.meituan.com	FALSE	/	FALSE	3656249080	terminal	i
+i.waimai.meituan.com	FALSE	/	FALSE	3656249080	utm_source	0
+i.waimai.meituan.com	FALSE	/	FALSE	3656249080	w_cid	152522
+i.waimai.meituan.com	FALSE	/	FALSE	3656249080	w_cpy	abagaqi
+i.waimai.meituan.com	FALSE	/	FALSE	3656249080	w_cpy_cn	"%E9%98%BF%E5%B7%B4%E5%98%8E%E6%97%97"
+i.waimai.meituan.com	FALSE	/	FALSE	3656249080	w_latlng	44026508,114965877
+i.waimai.meituan.com	FALSE	/	FALSE	3656249080	w_utmz	"utm_campaign=(direct)&utm_source=5000&utm_medium=(none)&utm_content=(none)&utm_term=(none)"
+i.waimai.meituan.com	FALSE	/	FALSE	3656249080	w_uuid	8I2SzgMmbTeNxF-4UNgMXFYyyi4Aqclev2VGa0K0xRL0hd8t172pqmyLeTBWXLBH
+i.waimai.meituan.com	FALSE	/	FALSE	1508767233	w_visitid	35028672-042d-4b37-b5d0-7f0d13ff55a2

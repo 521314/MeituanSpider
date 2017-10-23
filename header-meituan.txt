@@ -1,0 +1,15 @@
+POST /ajax/v6/poi/filter?category_type=101065&category_text=%E7%BE%8E%E9%A3%9F&_token=eJx9jm1rwjAUhf9LoH4xtEn6mkKRiVUq20BbZVNkxC5rw5q21kwrY/99ERxjX3a58Jx7OFzOJ+iSVxBipIdCoI5auyhwKHIJQZ4PQf7XcwiGYN+tJyDc+iiA1PV2V2Op7y2mBEGMArSDP9r1d5A4eq+pRIdAqVQbWpYwz0xIJkzJhfpgtZk30spLVte8GuVM8aLpLi/q0vIII4w8d/Br8l5FRuwb49gIYiOmxp1t0CmA//4uG8lHFVMRsU1MKPbsQVUXEca2STzHsV2gK8pMV9R8v5HdqG48iqIGIeDzPktFn2TxED+ul/eZ6OdZHpwOzfmUMtQcn8iwG1qVc6qSol1NF/FqVhYb2cqmmLzNNjyV7XT/PEuL8fhhKQ7g6xti83P8 HTTP/1.1
+Host: i.waimai.meituan.com
+Connection: keep-alive
+Content-Length: 111
+Accept: application/json
+Origin: http://i.waimai.meituan.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://i.waimai.meituan.com/channel?category_type=101065&category_text=%E7%BE%8E%E9%A3%9F
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.8
+Cookie: _lxsdk_cuid=15f336a3999c8-042db71adeba35-574e6e46-3d10d-15f336a399ac8; _lxsdk=15f336a3999c8-042db71adeba35-574e6e46-3d10d-15f336a399ac8; _ga=GA1.2.1160483408.1508395875; _gid=GA1.2.1915325613.1508395875; wx_channel_id=0; webp=1; w_addr=; utm_source=0; w_latlng=23129163,113264435; wm_poi_view_id=287098077500822; poiid=287098077500822; w_cid=110100; w_cpy=beijing; w_cpy_cn="%E5%8C%97%E4%BA%AC"; __mta=87858855.1508395879768.1508477148132.1508483893202.17; w_visitid=6f952268-3296-419d-903a-872f52717694; _ga=GA1.3.1160483408.1508395875; _gid=GA1.3.1915325613.1508395875; __mta=87858855.1508395879768.1508490270165.1508490339911.18; _lxsdk_s=15f39018979-815-d42-8ff%7C%7C3; terminal=i; w_utmz="utm_campaign=(direct)&utm_source=5000&utm_medium=(none)&utm_content=(none)&utm_term=(none)"; w_uuid=zLSZ6qkn47NTdNdbDnS0dnfYQeH0v6L6fxfPmNA4QDix0Wr8NFNj1DzGDMFjV9YX; JSESSIONID=amu0tmylcov2mz17pvy09buz
+
+221.10.159.234 : 1337
